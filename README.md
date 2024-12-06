@@ -1,4 +1,4 @@
-# advent_of_code_day_6 Shitty Solution
+# advent_of_code_day_6 Part 1 Shitty Solution
 
 
 To install dependencies:
@@ -13,5 +13,5 @@ To run:
 bun run index.ts
 ```
 
-This project was created using `bun init` in bun v1.1.39. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+[Link](https://adventofcode.com/2024/day/6)
 # advent_of_code_day_6
