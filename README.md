@@ -1,4 +1,5 @@
-# advenfofcodeday6
+# advent_of_code_day_6 Shitty Solution
+
 
 To install dependencies:
 
